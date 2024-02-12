@@ -1,4 +1,4 @@
-## Commonly Asked JUnit Annotations in Interview Questions
+## Commonly Asked JUnit4 Annotations in Interview Questions
 
 1. **@Test:**
    - Used to mark a method as a test method. JUnit runs the methods annotated with @Test to execute the test cases.
