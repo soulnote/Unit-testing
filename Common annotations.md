@@ -23,5 +23,3 @@
 
 8. **@Test(timeout):**
    - Specifies a maximum execution time for a test method. If the test takes longer than the specified timeout, it is considered a failure.
-
-Understanding how these annotations work and when to use them demonstrates a solid understanding of unit testing with JUnit in Java.
